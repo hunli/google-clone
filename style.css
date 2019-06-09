@@ -5,3 +5,19 @@ a:link {
 a:hover {
   text-decoration: underline;
 }
+
+.align-left {
+  display: inline-block;
+}
+
+.align-right {
+  display: inline-block;
+  float: right;
+  padding-right: 30px;
+}
+
+footer {
+  position:absolute;
+  bottom: 0;
+  width: 100%;
+}
